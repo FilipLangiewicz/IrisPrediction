@@ -28,7 +28,7 @@ It processes an iris image from the given `path` and returns the binary iris cod
 - `f`: Frequency parameter for feature extraction  
 - `output_width`: Width of the unwrapped iris  
 - `sigma`: Gaussian sigma for smoothing  
-- `save`: Whether to save processed images  
+- `save`: Whether to save processed images   
 
 ## 📦 Dependencies
 
